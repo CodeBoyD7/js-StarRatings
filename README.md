@@ -22,4 +22,4 @@ Make sure you have a web browser installed, as this project only requires a brow
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/star-rating-system.git
+   git clone https://github.com/CodeBoyD7/js-StarRatings.git
